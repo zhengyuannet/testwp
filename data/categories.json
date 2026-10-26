@@ -1,0 +1,74 @@
+[
+  {
+    "id": "frutas",
+    "label": {
+      "es": "Frutas",
+      "zh": "水果",
+      "en": "Fruits"
+    }
+  },
+  {
+    "id": "verduras",
+    "label": {
+      "es": "Verduras",
+      "zh": "蔬菜",
+      "en": "Vegetables"
+    }
+  },
+  {
+    "id": "lacteos",
+    "label": {
+      "es": "Lácteos",
+      "zh": "乳制品",
+      "en": "Dairy"
+    }
+  },
+  {
+    "id": "carnes",
+    "label": {
+      "es": "Carnes",
+      "zh": "肉类",
+      "en": "Meats"
+    }
+  },
+  {
+    "id": "bebidas",
+    "label": {
+      "es": "Bebidas",
+      "zh": "饮品",
+      "en": "Drinks"
+    }
+  },
+  {
+    "id": "hogar",
+    "label": {
+      "es": "Hogar",
+      "zh": "日用百货",
+      "en": "Home"
+    }
+  },
+  {
+    "id": "dulces",
+    "label": {
+      "es": "Dulces",
+      "zh": "甜品零食",
+      "en": "Sweets"
+    }
+  },
+  {
+    "id": "panaderia",
+    "label": {
+      "es": "Panadería",
+      "zh": "烘焙面包",
+      "en": "Bakery"
+    }
+  },
+  {
+    "id": "congelados",
+    "label": {
+      "es": "Congelados",
+      "zh": "冷冻食品",
+      "en": "Frozen"
+    }
+  }
+]
